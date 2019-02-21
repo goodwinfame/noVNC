@@ -2,6 +2,12 @@
 
 [![Build Status](https://travis-ci.org/novnc/noVNC.svg?branch=master)](https://travis-ci.org/novnc/noVNC)
 
+### New added
+
+Use webpack to bundle js files
+`npm run build`
+
+
 ### Description
 
 noVNC is both a HTML VNC client JavaScript library and an application built on
